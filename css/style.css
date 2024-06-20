@@ -22,10 +22,8 @@ body{
 .logo-text{
     margin-left: 0.625rem;
 }
-nav ul{
-    display: flex;
-    flex-direction: row;
-  }
+
+  
   nav ul li {
     list-style: none;
     display: inline;
@@ -41,3 +39,4 @@ nav ul{
     background-color: #e50c39;
     color: #fff;
   }
+  
