@@ -85,6 +85,7 @@ nav ul li a:hover {
   margin-bottom: 6px;
   justify-content: center;
 }
+
 .gallery li .card h3 {
   margin-bottom: 6px;
   text-align: center;
@@ -94,8 +95,9 @@ nav ul li a:hover {
   text-transform: uppercase;
   color: #17181a;
   letter-spacing: 2px;
-  height:10vh;
+  height: 10vh;
 }
+
 .gallery li .card p {
   text-align: center;
   font-size: 2rem;
@@ -111,7 +113,7 @@ nav ul li a:hover {
   color: #1a5b5e;
 }
 
-.gallery li .card .button{
+.gallery li .card .button {
   margin-top: 5px;
   width: 100%;
   padding: 7px;
@@ -124,7 +126,13 @@ nav ul li a:hover {
   color: #fff;
   font-family: "Work Sans", sans-serif;
 }
+
 footer {
   display: flex;
   justify-content: center;
+}
+footer i {
+  display: flex;
+  justify-content: center;
+  letter-spacing: 5px;
 }
